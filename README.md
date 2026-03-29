@@ -1,8 +1,9 @@
-# Open Source Audit Project
+<img width="1738" height="1089" alt="image" src="https://github.com/user-attachments/assets/e3b80c72-4207-4a88-918c-6adbc2d06b1c" /># Open Source Audit Project
 
 ## Student Details
 - Name: Aditi Soni
 - Roll Number: 24BAI10490
+- Choosen software - VLC media player
 
 ## Chosen Software
 VLC Media Player
